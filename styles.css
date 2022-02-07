@@ -1,0 +1,86 @@
+body {
+    padding-bottom: 30px;
+    font-family: 'Dongle', sans-serif;
+    font-size: 24.5px;
+    z-index: -2;
+    background-image: url(https://wallpapercave.com/wp/wp2771916.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    padding-bottom: 50px;
+}
+
+
+.wrapper {
+    margin: auto;
+    width: 502px;
+    height: max-content;
+    background-color:rgb(227, 255, 246, 0.5);
+    border-left:  rgb(218, 218, 218) 1px solid;
+    border-right: rgb(218, 218, 218) 1px solid; 
+    border-top: rgb(218, 218, 218) 1px solid;
+    padding-bottom: 200px;
+
+}
+header {
+    position: relative;
+}
+h1 {
+    position: fixed;
+    padding: 12px;
+    background-color: rgba(206, 147, 255, 0.6);;
+    border: rgb(243, 241, 241) 0.5px solid;
+    z-index: 100;
+    margin-top: 0;
+
+}
+h3 {
+    border-bottom: rgb(243, 243, 243) 0.5px solid;
+    margin-bottom: 0px;
+    padding: 10px 10px 10px 20px;
+    
+}
+.photonumber {
+    position: relative;
+    display: inline;
+    padding: 1px;
+    left: 350px;
+    bottom: 30px;
+    color: rgb(112, 112, 112);
+    
+
+}
+
+p {
+    padding-left: 20px;
+    border-top: rgb(243, 241, 241) 0.5px solid;
+    margin-top: 0px;
+    padding-top: 18px;
+
+}
+.box{
+    background-color: azure;
+    width: 400px;
+    border: rgb(218, 218, 218) 1px solid;
+    margin-bottom: 20px;
+}
+.boximage {
+    margin: auto;
+    width: 300px;
+
+    
+}
+
+img {
+    background-color: rgb(255, 255, 255);
+    object-fit: contain;
+    width: 300px;
+    height: 300px;
+    position: relative;
+
+
+}
+.photofeed {
+position: relative;
+margin-left: 51px;
+top: 150px;
+}
