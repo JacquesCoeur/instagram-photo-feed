@@ -2,8 +2,6 @@
 
 + Custom photo feed project (: 
 ![](https://github.com/JacquesCoeur/photo-feed/blob/main/assets/imageanimephotofeed.png)
-
-+ scrolling c:
 ![](https://github.com/JacquesCoeur/photo-feed/blob/main/assets/videoanimephotofeed.gif)
 # ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32)  The Instagram Photo Feed
 
