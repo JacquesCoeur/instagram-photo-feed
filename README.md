@@ -1,26 +1,58 @@
-# ![4Geeks Logo](http://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16) HTML Hello
+# ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32)  The Instagram Photo Feed
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/html-hello.git)
++ Custom photo feed project (: 
 
-The most basic boilerplate for any 4Geeks Academy student using the [gitpod.io](gitpod.io) coding editor.
 
-[![How to open html/css preview of my project in gitpod](https://github.com/4GeeksAcademy/Templates-Boilerplates/blob/master/assets/hello-html-intro.png?raw=true)](https://youtu.be/dfbDCMu_p-0)
+# ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32)  The Instagram Photo Feed
 
-## What to do next?
+Everyone knows Instagram, it's an ideal fun exercise to practice your beginner HTML/CSS skills. On this project will be exercising the following concepts:
 
-Create an `index.html` file with the [basic HTML structure](http://content.breatheco.de/lesson/what-is-html-learn-html#page-structure) and see it live by running a web-server using the following command:
+- Reusing CSS classes.
+- Display and Position CSS Rules.
+- Building a layout with CSS/HTML.
+- Centering containers.
+- Flow left and right.
+- Importing images.
 
-```sh
-$ pip3 install flask && python3 server.py
+
+## 🌱  How to start this project
+
+This project does not come with the necesary files to start working, we recommend you start coding from an empty boilerplate.
+
+a) If using Gitpod you [click here to open the boilerplate](https://github.com/4GeeksAcademy/html-hello).  
+
+b) If working locally type the following command from your command line: 
+
+```bash
+$ git clone https://github.com/4GeeksAcademy/html-hello
 ```
 
-- You can create as many HTML files as you want
-- You can also create CSS files and import them into your website using a `<link>` tag placed between the `<head></head>` tags, like this:
+💡 Important: Remember to create a new repository to save your progress and add the new remote (`git remote add new_origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `git push new_origin <branch>`.
 
-```html
-<head>
-  ...
-  <link rel="stylesheet" type="text/css" href="styles.css">
-  ...
-</head>
-```
+
+
+
+## 📝 Instructions
+
+Using everything you have learned with HTML and CSS3, please create a website that replicates this gif in every way (pixel perfect):
+
+<img src="https://github.com/breatheco-de/exercise-instagram-feed/blob/master/preview.gif?raw=true" /> 
+
+([Click here to expand](https://github.com/breatheco-de/exercise-instagram-feed/blob/master/preview.gif?raw=true))
+
+Or you can use these images:
+
+![imagen 1 ](https://github.com/breatheco-de/exercise-instagram-feed/blob/master/inst-3.png?raw=true)
+![imagen 2 ](https://github.com/breatheco-de/exercise-instagram-feed/blob/master/inst-5.png?raw=true)
+![imagen 3 ](https://github.com/breatheco-de/exercise-instagram-feed/blob/master/inst-6.png?raw=true)
+
+Use the display property like in the old days or the new flex CSS property to make the posts feed.
+
+## 📒 Resources
+
+- [This video](https://www.youtube.com/watch?v=Y8zMYaD1bz0) from the net ninja is amazing to start understanding the flexbox.
+
+- Here is the strategy for the exercise: ![Instagram Photo Feed Strategy](https://github.com/breatheco-de/exercise-instagram-feed/blob/master/strategy.png?raw=true)
+
+- Please discuss with your coding partner, any other student or mentor about any questions you may have. Coding is hard for everyone.
+
